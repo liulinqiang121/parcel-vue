@@ -1,0 +1,11 @@
+
+.el-table[data-v-ebf2db] {
+    max-width: 1200px;
+    margin: 80px auto;
+}
+.el-table .warning-row[data-v-ebf2db] {
+    background: oldlace;
+}
+.el-table .success-row[data-v-ebf2db] {
+    background: #f0f9eb;
+}
