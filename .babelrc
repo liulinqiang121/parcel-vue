@@ -1,0 +1,4 @@
+//  进行babel转换，可以支持es6 
+{
+    "presets":["@babel/preset-env"]
+}
